@@ -1,38 +1,38 @@
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "69b484f8e0095bb5b88ccbafb7ba1f6ee39338f2"
+git-tree-sha1 = "2d3f4b85ea74bc6066ccd2d25e68bd726a8c4776"
 libc = "glibc"
 os = "linux"
 
     [[qwtw.download]]
-    sha256 = "072f4d5f16ecbed1c4c92e055d6a0454be9913b2786584687a8afceb7a7063c6"
-    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.6.0+0/qwtw.v2.6.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "999959c30c958b245b3e8df171ffebd0f78a794f1655ca18118945ec8195604b"
+    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.7.0+0/qwtw.v2.7.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2958386d478bf184ad936b4aef9b8dee2c86991"
+git-tree-sha1 = "e83fa0c4081ec6f0f8414fd27320ecf0e10f56a4"
 libc = "glibc"
 os = "linux"
 
     [[qwtw.download]]
-    sha256 = "f917d05109dc33212f3d72055ff6ca4b2acfbbb6b5fe2772f937059a90baa51e"
-    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.6.0+0/qwtw.v2.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "853d0d71612a572c04011a317c68ae1d46449f635e4e13a95fae729a611dcdfb"
+    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.7.0+0/qwtw.v2.7.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c75c2ac3c688c7efb6a2fbcfb5e6082c7935417b"
+git-tree-sha1 = "2c00b407c3e1ee9ed66e2ae7025562db6a12ed68"
 os = "windows"
 
     [[qwtw.download]]
-    sha256 = "9a5017c79dc13fda8b0b79cb34cc4ce4a667c21a12a27c2bf0267721c12a1643"
-    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.6.0+0/qwtw.v2.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "efef1a178434d183b7dc47165e39796d9150a303a0b9ae8ba61da6f03c210bc7"
+    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.7.0+0/qwtw.v2.7.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8a2f8547e032ef292aa987f3cb587cf542576c6"
+git-tree-sha1 = "3e69db9f7bc443d0a24ea52078ae17c622a9b9e6"
 os = "windows"
 
     [[qwtw.download]]
-    sha256 = "c2a57a52b6905d9077f87f221b761691f46e5e42e29e20c77cbe4d3829a6954e"
-    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.6.0+0/qwtw.v2.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "56271819b58d68466010608468e036371e878151cd428ce3e7e10d4d1e1927aa"
+    url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.7.0+0/qwtw.v2.7.0.x86_64-w64-mingw32-cxx11.tar.gz"
