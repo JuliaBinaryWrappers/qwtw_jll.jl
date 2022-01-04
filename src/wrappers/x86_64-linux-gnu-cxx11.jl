@@ -11,19 +11,19 @@ using OpenSSL_jll
 using marble_jll
 using MathGL_jll
 JLLWrappers.@generate_wrapper_header("qwtw")
-JLLWrappers.@declare_executable_product(qwproc)
 JLLWrappers.@declare_library_product(qwtw, "libqwtw.so")
+JLLWrappers.@declare_executable_product(qwproc)
 function __init__()
     JLLWrappers.@generate_init_header(Libglvnd_jll, boost_jll, Qt_jll, qwt_jll, CompilerSupportLibraries_jll, FreeType2_jll, OpenSSL_jll, marble_jll, MathGL_jll)
-    JLLWrappers.@init_executable_product(
-        qwproc,
-        "bin/qwproc",
-    )
-
     JLLWrappers.@init_library_product(
         qwtw,
         "lib64/libqwtw.so",
         RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_executable_product(
+        qwproc,
+        "bin/qwproc",
     )
 
     JLLWrappers.@generate_init_footer()
