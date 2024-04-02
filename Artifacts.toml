@@ -1,38 +1,38 @@
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5d22f2bbe3ebbbae2374c821e6414dfc68821358"
+git-tree-sha1 = "571e54a0b3d6479a50adacc3a5719266da922e4d"
 libc = "glibc"
 os = "linux"
 
     [[qwtw.download]]
-    sha256 = "859585ca10e24bcefa5e68e47866cdc9c506e094a1d54cd54590e12209fd4114"
+    sha256 = "01c6f2fec8dd1b1192b4e19087bbe437e3495958df236ebebd0848e411efcdbe"
     url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.13.1+0/qwtw.v2.13.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b5522fe68b27878f38ad3d3b6d8adfb7cd80366a"
+git-tree-sha1 = "4e9db53a3e01065572362ec7bfdd246674c44b90"
 libc = "glibc"
 os = "linux"
 
     [[qwtw.download]]
-    sha256 = "074caa397fdb8359f2878a864678ea1de1b64022a26073a22480de55cfed0266"
+    sha256 = "d725846cd78b8d4914286a9a347d3235c6e31912db3bb5957ff83613f6832d45"
     url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.13.1+0/qwtw.v2.13.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a96935d7ba98f71b20434d4aa4e6ea36ed486251"
+git-tree-sha1 = "723166579ef2aa903f11a128dc2d62f75b309642"
 os = "windows"
 
     [[qwtw.download]]
-    sha256 = "0382c69ca2802579ce6a4db94df1e5885956fd5daa3ccd996b0bd44fac176ad7"
+    sha256 = "4b0005e46ba0490d9788ee573047d9bde7b3dc1142d7c8ee5ba96de05987906e"
     url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.13.1+0/qwtw.v2.13.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[qwtw]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7cc0189861b808a116d51f64e14907f1d5b3dafd"
+git-tree-sha1 = "5c35e316f18e1cfc848947522a35d6d106b87e1a"
 os = "windows"
 
     [[qwtw.download]]
-    sha256 = "3cdd175d4b9dd4c087362a543de891a3496fab0f53c4e2b7d80aa25b52d4df66"
+    sha256 = "95e29511f3f487b458b4e2503a006d29e8457717aa16a1ae613577d61f27e01c"
     url = "https://github.com/JuliaBinaryWrappers/qwtw_jll.jl/releases/download/qwtw-v2.13.1+0/qwtw.v2.13.1.x86_64-w64-mingw32-cxx11.tar.gz"
